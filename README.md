@@ -1,4 +1,4 @@
-<img width="auto" src="link">
+<img width="auto" src="https://raw.githubusercontent.com/paulo-mesquita/paulo-mesquita/master/steve_jobs_a_tecnologia_move_o_mundo_lenlnjd.jpg">
 
 
 # Paulo Mesquita
