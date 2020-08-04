@@ -4,7 +4,7 @@
 # Paulo Mesquita
 
 ## Olá pessoal 👋
-Trabalho atualmente como tecnico de Redes e  :computer:
+Trabalho atualmente como Tecnico de Redes  :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Newertech Soluções em TI**
  <br/> :purple_heart: &nbsp; Buscando contribuir com projetos em Front-end e Back-and usando React e Node.js 
