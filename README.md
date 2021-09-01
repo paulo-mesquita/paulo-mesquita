@@ -1,7 +1,9 @@
-<img width="auto" src="https://raw.githubusercontent.com/paulo-mesquita/paulo-mesquita/master/steve_jobs_a_tecnologia_move_o_mundo_lenlnjd.jpg">
 
 <h1 align="center">Hi 👋, I'm Paulo Mesquita</h1>
 <h3 align="center">Technology lover and everything I learn from it.</h3>
+
+<img width="30%" src="https://raw.githubusercontent.com/paulo-mesquita/paulo-mesquita/master/steve_jobs_a_tecnologia_move_o_mundo_lenlnjd.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulo-mesquita&label=Profile%20views&color=0e75b6&style=flat" alt="paulo-mesquita" /> </p>
 
