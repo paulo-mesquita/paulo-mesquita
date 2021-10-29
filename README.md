@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Paulo Mesquita</h1>
-<h3 align="center">Technology lover and everything I learn from it.</h3>
+
+<a href="https://raw.githubusercontent.com/paulo-mesquita/paulo-mesquita/master/badge-pauloMesquita.png" target="blank"><img align="right" height="600" width="400" src="https://raw.githubusercontent.com/paulo-mesquita/paulo-mesquita/master/badge-pauloMesquita.png" alt="badge" /></a>
+
+<h1 align="left">Hi 👋, I'm Paulo Mesquita</h1>
+<h3 align="left">Technology lover and everything I learn from it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulo-mesquita&label=Profile%20views&color=0e75b6&style=flat" alt="paulo-mesquita" /> </p>
 
