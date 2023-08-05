@@ -36,4 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulo-mesquita&show_icons=true&locale=en&layout=compact" alt="paulo-mesquita" /></p>
 
-<p>&nbsp;<img align="rigth" width="400rem" src="https://github-readme-stats.vercel.app/api?username=paulo-mesquita&show_icons=true&locale=en" alt="paulo-mesquita" /></p>
+<p>&nbsp;<img align="rigth" width="340rem" src="https://github-readme-stats.vercel.app/api?username=paulo-mesquita&show_icons=true&locale=en" alt="paulo-mesquita" /></p>
